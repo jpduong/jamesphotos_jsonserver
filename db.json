@@ -1,16 +1,54 @@
 {
-  "posts":[
+  "photos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "captionInput": "6 am sunrise in Hanoi",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/20170913_060115.jpg",
+      "id": 12
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "captionInput": "Trekking in Northern India",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/20170606_101100.jpg",
+      "id": 13
+    },
+    {
+      "captionInput": "Temple in remote Nepal village",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/20170620_161951.jpg",
+      "id": 14
+    },
+    {
+      "captionInput": "Nepal trekking",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/20170503_095646.jpg",
+      "id": 15
+    },
+    {
+      "captionInput": "Halong Bay, Vietnam",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/IMG_0662.JPG",
+      "id": 16
+    },
+    {
+      "captionInput": "Vietnam Motorbike Trip",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/36745292_2151979811497706_4956720502459596800_o.jpg",
+      "id": 17
+    },
+    {
+      "captionInput": "Vietnam Traffic",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/IMG_1510.JPG",
+      "id": 18
+    },
+    {
+      "captionInput": "Remote Area in Dalat, Vietnam",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/IMG_1448.JPG",
+      "id": 19
+    },
+    {
+      "captionInput": "Saigon, Vietnam",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/IMG_1397.JPG",
+      "id": 20
+    },
+    {
+      "captionInput": "Himalayas, Nepal",
+      "imageURL": "https://phongspho.s3.amazonaws.com/images/20170428_181937.jpg",
+      "id": 21
     }
   ]
 }
